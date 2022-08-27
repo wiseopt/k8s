@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-proxy:v1.25.0
+FROM registry.k8s.io/pause:3.8
