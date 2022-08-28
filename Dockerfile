@@ -1,1 +1,1 @@
-FROM registry.k8s.io/coredns/coredns:v1.9.3
+FROM k8s.gcr.io/kube-apiserver:v1.21.14
